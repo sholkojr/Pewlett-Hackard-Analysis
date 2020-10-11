@@ -1,0 +1,46 @@
+dept_name,title,mentor_count,near_ret_count,other_count,tot_count
+Customer Service,Assistant Engineer,,22,46,68
+Customer Service,Engineer,3,188,436,627
+Customer Service,Manager,,,1,1
+Customer Service,Senior Engineer,12,545,1233,1790
+Customer Service,Senior Staff,79,3453,7736,11268
+Customer Service,Staff,23,1048,2503,3574
+Customer Service,Technique Leader,3,64,174,241
+Development,Assistant Engineer,11,496,1145,1652
+Development,Engineer,99,4191,9750,14040
+Development,Manager,,,1,1
+Development,Senior Engineer,244,11644,26928,38816
+Development,Senior Staff,9,329,747,1085
+Development,Staff,2,118,195,315
+Development,Technique Leader,31,1590,3856,5477
+Finance,Manager,,,1,1
+Finance,Senior Staff,52,2884,6609,9545
+Finance,Staff,12,875,2004,2891
+Human Resources,Manager,,,1,1
+Human Resources,Senior Staff,78,2996,6750,9824
+Human Resources,Staff,19,929,2125,3073
+Marketing,Manager,,,1,1
+Marketing,Senior Staff,96,3355,7839,11290
+Marketing,Staff,21,1037,2493,3551
+Production,Assistant Engineer,17,426,959,1402
+Production,Engineer,59,3611,8411,12081
+Production,Manager,,,1,1
+Production,Senior Engineer,207,10189,23229,33625
+Production,Senior Staff,6,390,727,1123
+Production,Staff,1,99,249,349
+Production,Technique Leader,32,1457,3234,4723
+Quality Management,Assistant Engineer,1,125,263,389
+Quality Management,Engineer,23,1051,2331,3405
+Quality Management,Manager,,,1,1
+Quality Management,Senior Engineer,53,2874,6531,9458
+Quality Management,Technique Leader,9,398,886,1293
+Research,Assistant Engineer,,21,56,77
+Research,Engineer,6,244,580,830
+Research,Manager,,1,,1
+Research,Senior Engineer,13,664,1573,2250
+Research,Senior Staff,62,2834,6196,9092
+Research,Staff,20,880,1970,2870
+Research,Technique Leader,2,94,225,321
+Sales,Manager,,1,,1
+Sales,Senior Staff,187,8685,19925,28797
+Sales,Staff,57,2650,6196,8903
