@@ -16,3 +16,6 @@ The following shows the number of retiring employees by titles
 
 ### Retirments and Mentors in Relation to Overall Work Force by Department
 ![By_Dept_Table](/Resources/pivot_table_by_dept.png)
+![By_Dept_Chart](/Resources/barchart_by_dept.png)
+
+The results between titles and department are reasonably consistant, hovering around 30% between titles and departments.
