@@ -18,4 +18,9 @@ The following shows the number of retiring employees by titles
 ![By_Dept_Table](/Resources/pivot_table_by_dept.png)
 ![By_Dept_Chart](/Resources/barchart_by_dept.png)
 
-The results between titles and department are reasonably consistant, hovering around 30% between titles and departments.
+The results between titles and department are reasonably consistant, hovering around 30% between titles and departments.  This is a very high number for an organisation and will present a signification challenge to mitigate the negative impacts of loss of technical and organisational experience over the next 5 years.
+
+## Summary
+It is recommended that further investigation is undertaken to better understand these problems.  Further queries are recommended in the following areas:
+- Developing a better profile of the organization from junior, intermediate to senior employees.
+- Identifying long-time employees (both near retirement and long service time) to be set aside for both technical and organisational mentoring.
