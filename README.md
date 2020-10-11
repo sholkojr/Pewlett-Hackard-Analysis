@@ -10,3 +10,9 @@ The following shows the number of retiring employees by titles
 
 ### Pending Retirements and Mentors by Title
 ![Retirements_Mentors_1](/Resources/pivot_table_1.png)
+
+### Retirements and Mentors in Relation to Overall Work Force by Title
+![By_Title_Table](/Resources/pivot_table_by_title.png)
+
+### Retirments and Mentors in Relation to Overall Work Force by Department
+![By_Dept_Table](/Resources/pivot_table_by_dept.png)
